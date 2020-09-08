@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Custom_Dashboard/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Custom_Dashboard/static/js/main.70520c7c.chunk.js",
-    "main.js.map": "/Custom_Dashboard/static/js/main.70520c7c.chunk.js.map",
+    "main.js": "/Custom_Dashboard/static/js/main.7e2e82ec.chunk.js",
+    "main.js.map": "/Custom_Dashboard/static/js/main.7e2e82ec.chunk.js.map",
     "runtime-main.js": "/Custom_Dashboard/static/js/runtime-main.af41e5e9.js",
     "runtime-main.js.map": "/Custom_Dashboard/static/js/runtime-main.af41e5e9.js.map",
     "static/js/2.ef26c21e.chunk.js": "/Custom_Dashboard/static/js/2.ef26c21e.chunk.js",
     "static/js/2.ef26c21e.chunk.js.map": "/Custom_Dashboard/static/js/2.ef26c21e.chunk.js.map",
     "index.html": "/Custom_Dashboard/index.html",
-    "precache-manifest.660424c368c34d2cc435fde5d5af55c7.js": "/Custom_Dashboard/precache-manifest.660424c368c34d2cc435fde5d5af55c7.js",
+    "precache-manifest.b1f3243a62532725a33675568b3873b7.js": "/Custom_Dashboard/precache-manifest.b1f3243a62532725a33675568b3873b7.js",
     "service-worker.js": "/Custom_Dashboard/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Custom_Dashboard/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.ef26c21e.chunk.js.LICENSE.txt": "/Custom_Dashboard/static/js/2.ef26c21e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.af41e5e9.js",
     "static/js/2.ef26c21e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.70520c7c.chunk.js"
+    "static/js/main.7e2e82ec.chunk.js"
   ]
 }
